@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1 févr. 2014, 18:33:21
+    Author     : BLT
+*/
+/*
+*/
+/*h4
+{
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    font-variant-caps: small-caps;
+}
+h5
+{
+    font-size: 14px;
+    color: black;
+    font-style: oblique;
+}
+h6
+{
+    font-size: 12px;
+    color: grey;
+    font-style: oblique;
+    font-variant-caps: small-caps;
+}*/
+#header{
+    width: 100%;
+    border: 1px solid black;
+}
+
+#bannerd{
+    display: inline-block;
+    width: 75%;
+}
+
+#navi{
+    display: inline-block;
+    width: 23%;
+    vertical-align: top;
+    text-align: right;
+}
+
+.cat{
+    display: inline-block;
+    width: 250px;
+    height: 100%;
+}
+
+/*#arbo{
+  display: inline-block;
+  width: 10%;
+  border: 1px solid black;
+  vertical-align: top;
+}*/
+
+.centrum{
+    display: inline-block;
+    width: 65%;
+    vertical-align: top;
+}
+
+#image{
+    display: inline-block;
+    width: 20%;
+    border: 1px red;
+}
+
+#coverImage{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+#data{
+    display: inline-block;
+    width: 40%;
+    border: 1px solid black;
+    vertical-align: top;
+}
+
+#sale{
+    vertical-align: top;
+    display: inline-block;  
+    border: 1px solid black;
+}
+
+/*#paged{
+    display: inline-block; 
+}*/
+/*
+# = id
+. = class
+*/
